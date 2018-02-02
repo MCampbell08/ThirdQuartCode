@@ -1,0 +1,3 @@
+﻿  TempData.cpp
+c:\code\cpp\tempdata\tempdata\tempdata.cpp(19): warning C4715: 'TempData::ProcessTemperatures': not all control paths return a value
+  TempData.vcxproj -> C:\Code\CPP\TempData\Debug\TempData.exe

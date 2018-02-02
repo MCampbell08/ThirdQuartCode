@@ -1,0 +1,16 @@
+﻿  Vec3.cpp
+  Vec2.cpp
+  TimeStamp.cpp
+  StringFuncs.cpp
+  Mat3.cpp
+  Mat2.cpp
+  LogMsgType.cpp
+  KeyValuePairs.cpp
+  KeyValuePair.cpp
+  GameLogger.cpp
+  Filepath.cpp
+  Engine.cpp
+  ConfigReader.cpp
+  Generating Code...
+     Creating library C:\C++2\CPP2\Lab 05 - 2D Calculator\Debug\Engine.lib and object C:\C++2\CPP2\Lab 05 - 2D Calculator\Debug\Engine.exp
+  Engine.vcxproj -> C:\C++2\CPP2\Lab 05 - 2D Calculator\Debug\Engine.dll

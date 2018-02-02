@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\waffledefender\documents\visual studio 2015\projects\simpleroots\simpleroots\main.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\waffledefender\documents\visual studio 2015\projects\simpleroots\simpleroots\main.cpp(14): warning C4244: '+=': conversion from 'const double' to 'int', possible loss of data
+c:\users\waffledefender\documents\visual studio 2015\projects\simpleroots\simpleroots\main.cpp(24): warning C4244: '+=': conversion from 'const double' to 'int', possible loss of data
+c:\users\waffledefender\documents\visual studio 2015\projects\simpleroots\simpleroots\main.cpp(36): warning C4244: '+=': conversion from 'const double' to 'int', possible loss of data
+  SimpleRoots.vcxproj -> C:\Users\WaffleDefender\Documents\Visual Studio 2015\Projects\SimpleRoots\Debug\SimpleRoots.exe

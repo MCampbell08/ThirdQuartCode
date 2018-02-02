@@ -1,0 +1,14 @@
+﻿  Vec2.cpp
+  TimeStamp.cpp
+  StringFuncs.cpp
+  LogMsgType.cpp
+  KeyValuePairs.cpp
+  KeyValuePair.cpp
+  GameLogger.cpp
+  Filepath.cpp
+  Engine.cpp
+  ConfigReader.cpp
+  Generating Code...
+     Creating library C:\C++2\CPP2\Lab 04 - Spaceships\Debug\Engine.lib and object C:\C++2\CPP2\Lab 04 - Spaceships\Debug\Engine.exp
+  Engine.vcxproj -> C:\C++2\CPP2\Lab 04 - Spaceships\Debug\Engine.dll
+  Engine.vcxproj -> C:\C++2\CPP2\Lab 04 - Spaceships\Debug\Engine.pdb (Partial PDB)

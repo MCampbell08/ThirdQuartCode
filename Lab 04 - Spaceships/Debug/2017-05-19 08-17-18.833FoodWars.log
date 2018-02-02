@@ -1,0 +1,4 @@
+2017-05-19 08:17:18.833[Info:          ]GameLogger::Initialize() opened log file [..\Debug\2017-05-19 08-17-18.833FoodWars.log] for writing.
+2017-05-19 08:17:18.833[Process:       ]GameLogger::Initialize() successful
+2017-05-19 08:17:18.833[Info:          ]GameLogger::Initialize() opened log file [..\Debug\FoodWars.config] for reading.
+2017-05-19 08:17:18.833[Fatal Error:   ]ConfigReader::Initialize not successful

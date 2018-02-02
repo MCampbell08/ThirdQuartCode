@@ -1,0 +1,25 @@
+﻿  TimeStamp.cpp
+c1xx : fatal error C1083: Cannot open source file: 'TimeStamp.cpp': No such file or directory
+  StringFuncs.cpp
+c1xx : fatal error C1083: Cannot open source file: 'StringFuncs.cpp': No such file or directory
+  LogMsgType.cpp
+c1xx : fatal error C1083: Cannot open source file: 'LogMsgType.cpp': No such file or directory
+  KeyValuePairs.cpp
+c1xx : fatal error C1083: Cannot open source file: 'KeyValuePairs.cpp': No such file or directory
+  KeyValuePair.cpp
+c1xx : fatal error C1083: Cannot open source file: 'KeyValuePair.cpp': No such file or directory
+  GameLogger.cpp
+c1xx : fatal error C1083: Cannot open source file: 'GameLogger.cpp': No such file or directory
+  Filepath.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Filepath.cpp': No such file or directory
+  ConfigReader.cpp
+c1xx : fatal error C1083: Cannot open source file: 'ConfigReader.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  Engine.cpp
+c:\c++2\cpp2\lab 03 - 2d calculator\engine\engine.cpp(2): fatal error C1083: Cannot open include file: 'ConfigReader.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Vec2.cpp
+c:\c++2\cpp2\lab 03 - 2d calculator\engine\vec2.h(5): fatal error C1083: Cannot open include file: 'GameLogger.h': No such file or directory
+  Generating Code...

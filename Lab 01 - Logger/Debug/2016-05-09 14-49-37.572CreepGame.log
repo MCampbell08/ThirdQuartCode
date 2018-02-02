@@ -1,0 +1,6 @@
+2016/05/09 14:49:37 Process:GameLogger::Initialize() opened log file [..\Debug\2016-05-09 14-49-37.572CreepGame.log] for writing.
+2016-05-09 14:49:37.572  [Info:     GameLogger::Initialize() successful
+2016-05-09 14:49:37.572[  Process:  About to Play the game!
+2016-05-09 14:49:37.572[  Process:  3 players are in Dark Ghoul Dungeon, 17 are in Raid Chatroom, 17.6 % are playing!
+2016-05-09 14:49:37.572[  Process:  Done playing the game, elapsed time was 1234.6 seconds!
+2016-05-09 14:49:37.572[  Info:     GameLogger::Shutdown() successful

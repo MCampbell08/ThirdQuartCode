@@ -1,0 +1,21 @@
+2016-06-01 15:34:56.421[Info:          ]GameLogger::Initialize() opened log file [..\Debug\2016-06-01 15-34-56.4212DCalculator.log] for writing.
+2016-06-01 15:34:56.421[Process:       ]GameLogger::Initialize() successful
+2016-06-01 15:34:56.421[Info:          ]GameLogger::Initialize() opened log file [..\Debug\2DCalculator.config] for reading.
+2016-06-01 15:34:56.422[Info:          ]	Added KVP (2DCalculator.AdditionTab, true)
+2016-06-01 15:34:56.422[Info:          ]	Added KVP (2DCalculator.DotProductTab, true)
+2016-06-01 15:34:56.422[Info:          ]	Added KVP (2DCalculator.LerpTab, true)
+2016-06-01 15:34:56.422[Info:          ]	Added KVP (2DCalculator.PerpendicularTab, true)
+2016-06-01 15:34:56.422[Info:          ]	Added KVP (2DCalculator.MatrixMultiplicationTab, true)
+2016-06-01 15:34:56.422[Info:          ]	Added KVP (2DCalculator.AffineTransformationTab, true)
+2016-06-01 15:34:56.423[Info:          ]	Added KVP (2DCalculator.MatrixTransformationTab, true)
+2016-06-01 15:34:56.423[Process:       ]ConfigReader::Initialize successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.AdditionTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.DotProductTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.LerpTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.PerpendicularTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.MatrixMultiplicationTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.AffineTransformationTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.MatrixTransformationTab::Initialize() successful
+2016-06-01 15:34:56.423[Process:       ]2DCalculator.Tab::Initialize() successful
+2016-06-01 15:34:59.775[Process:       ]ConfigReader::Shutdown() successful
+2016-06-01 15:34:59.775[Process:       ]GameLogger::Shutdown() successful

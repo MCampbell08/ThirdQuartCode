@@ -1,0 +1,11 @@
+2016-05-19 18:36:33.138[Info:          ]GameLogger::Initialize() opened log file [..\Debug\2016-05-19 18-36-33.1372DCalculator.log] for writing.
+2016-05-19 18:36:33.138[Process:       ]GameLogger::Initialize() successful
+2016-05-19 18:36:33.138[Info:          ]GameLogger::Initialize() opened log file [..\Debug\2DCalculator.config] for reading.
+2016-05-19 18:36:33.138[Info:          ]	Added KVP (2DCalculator.AdditionTab, true)
+2016-05-19 18:36:33.139[Info:          ]	Added KVP (2DCalculator.DotProductTab, true)
+2016-05-19 18:36:33.139[Info:          ]	Added KVP (2DCalculator.LerpTab, true)
+2016-05-19 18:36:33.139[Info:          ]	Added KVP (2DCalculator.PerpendicularTab, true)
+2016-05-19 18:36:33.139[Process:       ]ConfigReader::Initialize successful
+2016-05-19 18:36:33.140[Process:       ]2DCalculator.Tab::Initialize() successful
+2016-05-19 18:36:35.105[Process:       ]ConfigReader::Shutdown() successful
+2016-05-19 18:36:35.105[Process:       ]GameLogger::Shutdown() successful
